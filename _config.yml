@@ -25,7 +25,7 @@ url                      : "https://jisoooh94.github.io"# the base hostname & pr
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "JisooOh94/JisooOh94.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/teaser/3.jpeg"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo/3.jpg"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo/leaf.jpg"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -109,28 +109,22 @@ analytics:
 author:
   name             : "Oh Ji Soo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "NAVER Software Engineer"
+  bio              : "Software Engineer"
   location         : "Seoul/Korea"
   email            : "chocokon@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: chocokon@gmail.com
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/profile.php?id=100003709786925"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/JisooOh94"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/jisoooh94/?hl=ko"
 
 # Site Footer
 footer:
@@ -220,8 +214,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -249,9 +243,9 @@ whitelist:
 #  Path (examples)
 #  - Archive page should exist at path when using Liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path>/my-awesome-category/index.html ~> path: /
+#  - <base_path>/tags/my-awesome-tag/2020-01-20-main.md ~> path: /tags/
+#  - <base_path>/categories/my-awesome-category/2020-01-20-main.md ~> path: /categories/
+#  - <base_path>/my-awesome-category/2020-01-20-main.md ~> path: /
 category_archive:
   type: liquid
   path: /categories/
