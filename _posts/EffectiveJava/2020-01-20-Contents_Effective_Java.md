@@ -1,6 +1,6 @@
 ---
 title:  "Effective Java"
-excerpt: 3rd Edition, Joshua Bloch, Addison-Wesley Professional
+excerpt: 3rd Edition By Joshua Bloch, Addison-Wesley Professional
 categories:
   - Study
 tags:
