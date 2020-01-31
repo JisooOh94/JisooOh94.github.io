@@ -83,9 +83,18 @@ body {
 }
 
 .page__content {
+  h1 {
+    font-size: $my-type-size-1-4;
+  }
+
   h2 {
+    font-size: $my-type-size-1-2;
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+  }
+
+  h3 {
+    font-size: $my-type-size-1;
   }
 
 	h1, h2, h3, h4, h5, h6 {
@@ -108,7 +117,7 @@ body {
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: $my-type-size-0-8;
   }
 
   /* paragraph indents */
