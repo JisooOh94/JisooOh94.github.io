@@ -1,5 +1,7 @@
 ---
 title:  "Clean code"
+layout: single
+classes: wide
 excerpt: 1st Edition By Robert C. Martin, Pearson education
 categories:
   - Study

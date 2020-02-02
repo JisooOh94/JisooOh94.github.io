@@ -6,7 +6,7 @@ layout: splash
 ## Career history
 * 1994 ~ &emsp;&emsp;&emsp;&emsp;&emsp; Born
 * 2013 ~ 2018 &emsp;&emsp;&ensp; Soongsil University - Computer engineering major (GPA 4.04 / 4.5)
-* 2019 ~ &emsp;&emsp;&emsp;&emsp;&emsp; Naver software engineer - Department of Naver cloud java back-end server developer
+* 2019 ~ &emsp;&emsp;&emsp;&emsp;&emsp; Naver software engineer - Department of Naver cloud java back-end server
 
 ## Papers
 * A Robust Tracking of Obscure 3D Object for Spatial Augmented Reality - PROCEEDINGS OF HCI KOREA 2017 학술대회 발표 논문집, 2017.2, 836-839 (4 pages) [[DBpia]](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07122478)
