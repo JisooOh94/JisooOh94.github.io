@@ -1,7 +1,7 @@
 ---
 title: "[LeetCode] 3. Longest Substring Without Repeating Characters"
 permalink: /algorithm/Longest_Substring_Without_Repeating_Characters
-excerpt: 빌더패턴과 Json Serialization 연동하는 방법 및 효율적으로 활용하는 방법에 대해 기술
+excerpt: "Time Complexity : O(n)"
 classes: wide
 categories:
   - Algorithm
