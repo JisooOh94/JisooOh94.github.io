@@ -8,3 +8,5 @@ main:
     url: /categories/study/
   - title : "Post"
     url: /categories/post/
+  - title: "Algorithm"
+    url: /categories/algorithm/

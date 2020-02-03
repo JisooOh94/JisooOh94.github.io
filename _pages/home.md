@@ -30,10 +30,10 @@ feature_row:
   - <!-- image_path: /assets/images/main/aboutme1.png -->
     alt: "algorithm"
     title: "Algorithm"
-    excerpt: "This page summarizes my resume, thesis, patent and project history from 2013 to the present. It will updated whenever new or important project execution history is added."
+    excerpt: "Solving the algorithm problems listed in Leetcode and Baekjoon judge, and organized the succeed solution codes. I will further review these solution codes later to learn how to improve performance that i did not think of at the time of implementation."
     url: "/categories/algorithm"
     btn_class: "btn--primary"
-    btn_label: "List of problems"     
+    btn_label: "List of solutions"
   
   - <!-- image_path: /assets/images/main/aboutme1.png -->
     alt: "about me"
